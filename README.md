@@ -18,7 +18,7 @@ I really like to be active so I love to go biking and rollerblading by the lake.
 ### 📫 How to reach me:
 [Email](mailto:a6vu@uwaterloo.ca "Email") | [Website](https://www.adavu.ca/ "Personal Website") | [LinkedIn](https://www.linkedin.com/in/ada-vu/ "LinkedIn")
 
-![](https://komarev.com/ghpvc/?username=LeMichael88&label=Profile+Views&color=red)
+![](https://komarev.com/ghpvc/?username=ada-vu&label=Profile+Views&color=red)
 <!--
 **ada-vu/ada-vu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
